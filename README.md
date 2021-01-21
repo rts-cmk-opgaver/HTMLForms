@@ -9,4 +9,4 @@ Før du begynder at kode, er det altid en god idé at træde tilbage og tage sig
 Start med at lave din skitse, og opload den samme med dine filer når du er færdig.
 
 ## Eksempel på en skitse
-![Formular skitse](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Formular skitse")
+![Formular skitse](https://github.com/rts-cmk-opgaver/HTMLForms/blob/main/form-sketch-low.jpg "Formular skitse")
